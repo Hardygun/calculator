@@ -78,4 +78,10 @@ button:active {
 
 .operator-btn2:active {
   background-color: hsl(0, 0%, 15%);
+}
+
+@media (max-width: 430px) {
+  #calculator {
+    max-width: 500px;
+  }
 }/*# sourceMappingURL=cal.css.map */
